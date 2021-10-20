@@ -4,7 +4,7 @@ a = 5;
 var b;
 b = 10;
 var c;
-c = "I'm a"
+c = "I am a"
 // Only change code above this line
 
 a = a + 1;
