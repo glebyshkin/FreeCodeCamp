@@ -12,7 +12,7 @@ if (num < 5){
   return "Huge";
 }
 
-  return result;
+  return;
   // Only change code above this line
 }
 
